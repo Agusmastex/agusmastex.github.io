@@ -1,4 +1,8 @@
 ---
+layout: home
+# profile_picture:
+#     src: /assets/default_image.jpg
+#     alt: Default vibe image here
 ---
 
-This will be the home page.
+Welcome to my site
