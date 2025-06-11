@@ -37,7 +37,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Portfolio
+    # - name: Portfolio
     - name: Research
 
 footer:
